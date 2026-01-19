@@ -11,16 +11,9 @@
     Harbin Institute of Technology
 </em></h5>
 
-<!--
-<p align="center">
-  <a href="#Abstract">Abstract</a> |
-  <a href="#📢-Latest-Updates ">News</a> |
-  <a href="#🗺-MM-5B-Dataset">MM-5B</a> |
-  <a href="#🌾-Crop10m-Dataset">Crop10m</a> |
-  <a href="#🥰-Acknowledgement">Statement</a>
-</p>
--->
+
 ![](https://i.imgur.com/waxVImv.png)
+
 <!-- <p align="center">
   <a href="https://arxiv.org/abs/2507.08741"><img src="https://img.shields.io/badge/arxiv-HieraRS?style=social&logo=arxiv" alt="HieraRS arxiv"></a>
 </p> -->
@@ -34,6 +27,7 @@ Accurately monitoring anthropogenic coastal changes is challenging due to comple
 ## 📢 Latest Updates 
 - **January-19-2026**: Coast-CD repository created. [![HieraRS stars](https://img.shields.io/github/stars/AI-Tianlong/Coast-CD)](https://github.com/AI-Tianlong/Coast-CD)
 <!-- - **July-11-2025**: The paper was released on arxiv. [![HieraRS arxiv](https://img.shields.io/badge/HieraRS-paper?style=social&logo=arxiv)](https://arxiv.org/abs/2507.08741) -->
+
 ## 📅 TODO List
 - [ ] Release Coast-CD dataset
 - [ ] Release Coast-CDNet code
@@ -50,10 +44,12 @@ Accurately monitoring anthropogenic coastal changes is challenging due to comple
 
 <p>
 Coast-CD download links: 
-  <a href="https://pan.baidu.com/s/1U5yjf7t1-RuaWMPOhSA1ow?pwd=MM5B"><img src="figures/logo/Baidu.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
+  <a href=" https://pan.baidu.com/s/1uq1wnxpLSlC4LNGLvwmxYA?pwd=CZCD"><img src="figures/logo/Baidu.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
   <a href="#"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
   <a href="#"><img src="figures/logo/Zenodo.png" alt="Zenodo Logo" height="18" style="vertical-align:middle;"> Zenodo</a>
 </p>
+
+
 
 
 ## Visualization
