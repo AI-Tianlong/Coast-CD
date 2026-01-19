@@ -44,7 +44,7 @@ Accurately monitoring anthropogenic coastal changes is challenging due to comple
 
 <p>
 Coast-CD download links: 
-  <a href=" https://pan.baidu.com/s/1uq1wnxpLSlC4LNGLvwmxYA?pwd=CZCD"><img src="figures/logo/Baidu.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
+  <a href="https://pan.baidu.com/s/1uq1wnxpLSlC4LNGLvwmxYA?pwd=CZCD"><img src="figures/logo/Baidu.png" alt="Baidu Netdisk Logo" height="18" style="vertical-align:middle;"> Baidu Netdisk</a> |
   <a href="#"><img src="figures/logo/GoogleDrive.png" alt="Google Drive Logo" height="18" style="vertical-align:middle;"> Google Drive</a> |
   <a href="#"><img src="figures/logo/Zenodo.png" alt="Zenodo Logo" height="18" style="vertical-align:middle;"> Zenodo</a>
 </p>
